@@ -1,6 +1,6 @@
-package com.roboslyq.learn.server;
+package com.roboslyq.learn.netty.server;
 
-import com.roboslyq.learn.handler.DiscardServerHandler;
+import com.roboslyq.learn.netty.handler.DiscardServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

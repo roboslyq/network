@@ -1,4 +1,6 @@
-package com.roboslyq.learn.server;
+package com.roboslyq.learn.netty.server;
+
+import com.roboslyq.learn.netty.server.EchoServer;
 
 public class EchoServerMain {
     public static void main(String[] args) throws Exception {

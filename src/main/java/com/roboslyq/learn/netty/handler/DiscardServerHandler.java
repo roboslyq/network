@@ -1,4 +1,4 @@
-package com.roboslyq.learn.handler;
+package com.roboslyq.learn.netty.handler;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
